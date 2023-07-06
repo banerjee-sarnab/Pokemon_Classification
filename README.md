@@ -50,13 +50,13 @@ To clone this project and get started, follow these steps:
 1. **Clone the Repository**: Open a terminal or command prompt and navigate to the directory where you want to clone the project. Then, run the following command to clone the repository:
 
    ```
-   git clone https://github.com/your-username/pokemon-classification.git
+   git clone https://github.com/banerjee-sarnab/Pokemon_Classification.git
    ```
 
 2. **Navigate to the Project Directory**: Once the cloning process is complete, navigate into the project directory using the following command:
 
    ```
-   cd pokemon-classification
+   cd Pokemon_Classification
    ```
 
 3. **Install Dependencies**: Before running the project, make sure to install the required dependencies. 
